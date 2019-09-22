@@ -4,4 +4,4 @@ Simples app pra consumo da API da Marvel.
 
 ## Getting Started
 
-Insira suas keys no arquivo utils/keys.dart
+Insira suas keys no arquivo lib/utils/keys.dart
