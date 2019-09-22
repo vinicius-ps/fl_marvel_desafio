@@ -1,4 +1,4 @@
-# fl_desafio_marvel
+# fl_marvel_desafio
 
 Simples app pra consumo da API da Marvel.
 
